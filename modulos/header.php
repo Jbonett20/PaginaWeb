@@ -4,12 +4,12 @@
       <a href="index.html" class="logo d-flex align-items-center me-auto">
         <!-- Uncomment the line below if you also wish to use an image logo -->
         <!-- <img src="assets/img/logo.png" alt=""> -->
-        <h1 class="sitename">Multi</h1>
+        <img src="assets/img/Logo1.png" class="img-fluid" alt="">
       </a>
 
       <?php include_once("./modulos/nav.php") ?>
 
-      <a class="btn-getstarted" href="#about">Get Started</a>
+      <a class="btn-getstarted" href="#about">EMPEZAR</a>
 
     </div>
   </header>

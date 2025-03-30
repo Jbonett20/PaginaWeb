@@ -63,7 +63,7 @@
 
   </main>
   <!-- footer-->
-  <?php include_once("./modulos/contact.php") ?>
+  <?php include_once("./modulos/footer.php") ?>
   <!-- fin footer -->
 
 

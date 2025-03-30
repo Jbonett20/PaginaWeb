@@ -1,10 +1,10 @@
 <section id="testimonials" class="testimonials section light-background">
 
-<!-- Section Title -->
+<!-- Section Title 
 <div class="container section-title" data-aos="fade-up">
   <h2>Testimonials</h2>
   <div><span>Check Our</span> <span class="description-title">Testimonials</span></div>
-</div><!-- End Section Title -->
+</div>
 
 <div class="container" data-aos="fade-up" data-aos-delay="100">
 
@@ -52,7 +52,7 @@
             </p>
           </div>
         </div>
-      </div><!-- End testimonial item -->
+      </div>
 
       <div class="swiper-slide">
         <div class="testimonial-wrap">
@@ -70,7 +70,7 @@
             </p>
           </div>
         </div>
-      </div><!-- End testimonial item -->
+      </div>
 
       <div class="swiper-slide">
         <div class="testimonial-wrap">
@@ -88,7 +88,7 @@
             </p>
           </div>
         </div>
-      </div><!-- End testimonial item -->
+      </div>
 
       <div class="swiper-slide">
         <div class="testimonial-wrap">
@@ -106,7 +106,7 @@
             </p>
           </div>
         </div>
-      </div><!-- End testimonial item -->
+      </div>
 
       <div class="swiper-slide">
         <div class="testimonial-wrap">
@@ -124,7 +124,7 @@
             </p>
           </div>
         </div>
-      </div><!-- End testimonial item -->
+      </div>
 
     </div>
     <div class="swiper-pagination"></div>
@@ -132,4 +132,4 @@
 
 </div>
 
-</section>
+</section>-->

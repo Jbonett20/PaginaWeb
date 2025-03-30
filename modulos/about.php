@@ -2,32 +2,28 @@
 
 <!-- Section Title -->
 <div class="container section-title" data-aos="fade-up">
-  <h2>About</h2>
-  <div><span>Learn More</span> <span class="description-title">About Us</span></div>
+  <h2>VISION</h2>
 </div><!-- End Section Title -->
+
+
 
 <div class="container">
 
   <div class="row gy-4">
-
+  <h1>Ser lideres en el ambito legal por innovacion y adaptabilidad </h1>
     <div class="col-lg-6 content" data-aos="fade-up" data-aos-delay="100">
-      <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-        magna aliqua.
-      </p>
-      <ul>
-        <li><i class="bi bi-check2-circle"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat.</span></li>
-        <li><i class="bi bi-check2-circle"></i> <span>Duis aute irure dolor in reprehenderit in voluptate velit.</span></li>
-        <li><i class="bi bi-check2-circle"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo</span></li>
-      </ul>
-    </div>
-
+      <h4>Prposito de Liderazgo Legal.</h4>
+      <p>Aspiramos a ser reconocidos como lideres en el campo legal en 2030, fusionando experiencia con innovacion. </p>
+      </div>
     <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
-      <p>Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </p>
-      <a href="#" class="read-more"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+      <h4>Adaptacion al Cambio.</h4>
+      <p>Nos comprometemos a adaptarnos a los cambios en el entorno legal, asegurando la relevancio y efectividad de nuestros servicios.</p>
+       </div>
+    <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
+      <h4>Objetivos Estrategicos.</h4>
+      <p> Nustro objetivo es el exito de nuestros clientes, Trabajando incanzablemente para defender sus intereses y necesidades. </p>
     </div>
-
-  </div>
+   </div>
 
 </div>
 
