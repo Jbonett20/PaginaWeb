@@ -2,8 +2,8 @@
 
 <!-- Section Title -->
 <div class="container section-title" data-aos="fade-up">
-  <h2>Contact</h2>
-  <div><span>Need Help?</span> <span class="description-title">Contact Us</span></div>
+  <h2>Contacto</h2>
+  <div><span>¿Necesitas ayuda?</span> <span class="description-title">Contáctanos</span></div>
 </div><!-- End Section Title -->
 
 <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -15,24 +15,24 @@
         <div class="col-lg-12">
           <div class="info-item d-flex flex-column justify-content-center align-items-center" data-aos="fade-up" data-aos-delay="200">
             <i class="bi bi-geo-alt"></i>
-            <h3>Address</h3>
-            <p>A108 Adam Street, New York, NY 535022</p>
+            <h3>DIRECCIÓN</h3>
+            <p>00000000000#00000000</p>
           </div>
         </div><!-- End Info Item -->
 
         <div class="col-md-6">
           <div class="info-item d-flex flex-column justify-content-center align-items-center" data-aos="fade-up" data-aos-delay="300">
             <i class="bi bi-telephone"></i>
-            <h3>Call Us</h3>
-            <p>+1 5589 55488 55</p>
+            <h3>Llámanos</h3>
+            <p>3017543649 - 3188517817</p>
           </div>
         </div><!-- End Info Item -->
 
         <div class="col-md-6">
           <div class="info-item d-flex flex-column justify-content-center align-items-center" data-aos="fade-up" data-aos-delay="400">
             <i class="bi bi-envelope"></i>
-            <h3>Email Us</h3>
-            <p>info@example.com</p>
+            <h3>Envíenos un correo electrónico</h3>
+            <p>gerencia@gonzalezballesteros.com</p>
           </div>
         </div><!-- End Info Item -->
 
@@ -44,19 +44,19 @@
         <div class="row gy-4">
 
           <div class="col-md-6">
-            <input type="text" name="name" class="form-control" placeholder="Your Name" required="">
+            <input type="text" name="name" class="form-control" placeholder="Nombre" required="">
           </div>
 
           <div class="col-md-6 ">
-            <input type="email" class="form-control" name="email" placeholder="Your Email" required="">
+            <input type="email" class="form-control" name="email" placeholder="Correo" required="">
           </div>
 
           <div class="col-md-12">
-            <input type="text" class="form-control" name="subject" placeholder="Subject" required="">
+            <input type="text" class="form-control" name="subject" placeholder="Asunto" required="">
           </div>
 
           <div class="col-md-12">
-            <textarea class="form-control" name="message" rows="4" placeholder="Message" required=""></textarea>
+            <textarea class="form-control" name="message" rows="4" placeholder="Mensaje" required=""></textarea>
           </div>
 
           <div class="col-md-12 text-center">
@@ -64,7 +64,7 @@
             <div class="error-message"></div>
             <div class="sent-message">Your message has been sent. Thank you!</div>
 
-            <button type="submit">Send Message</button>
+            <button type="submit">Enviar mensaje</button>
           </div>
 
         </div>
