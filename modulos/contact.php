@@ -3,7 +3,7 @@
 <!-- Section Title -->
 <div class="container section-title" data-aos="fade-up">
   <h2>Contacto</h2>
-  <div><span>¿Necesitas ayuda?</span> <span class="description-title">Contáctanos</span></div>
+  <div><span>¿Necesitas ayuda?</span> <span class="description-title">Agenda tu cita</span></div>
 </div><!-- End Section Title -->
 
 <div class="container" data-aos="fade-up" data-aos-delay="100">

@@ -617,6 +617,7 @@ iframe.wait-autoplay {
   animation: gzoomOut 0.5s ease;
 }
 
+
 @-webkit-keyframes lightboxLoader {
   0% {
     -webkit-transform: rotate(0deg);
