@@ -3,14 +3,13 @@
 <!-- Section Title -->
 <div class="container section-title" data-aos="fade-up">
   <h2>equipo</h2>
-  <div><span>Conozca a nuestro</span> <span class="description-title">equipo</span></div>
 </div><!-- End Section Title -->
 
 <div class="container">
 
   <div class="row gy-4">
-    <H2>Abogadas LABORALISTAS & CIVILISTAS con más de 20 años de experiencia en el manejo estratégico de relaciones laborales y comerciales, representación legal, litigio laboral y civil, negociación de conflictos y gestión
-sindical..   </H2>
+    <h3>Abogadas LABORALISTAS & CIVILISTAS con más de 20 años de experiencia en el manejo estratégico de relaciones laborales y comerciales, representación legal, litigio laboral y civil, negociación de conflictos y gestión
+sindical..   </h3>
 <!-- 
     <div class="col-xl-3 col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
       <div class="member">

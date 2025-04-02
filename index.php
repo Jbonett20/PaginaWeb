@@ -71,6 +71,12 @@
   <?php include_once("./modulos/scroll.php") ?>
   <!-- Vendor JS Files -->
   <?php include_once("./script/script.php") ?>
+  <div class="wsp">
+  <a href="https://wa.me/3188517817" class="wsp__button" target="_blank">
+    <i class="bi bi-whatsapp"></i>
+    </a>
+  </div>
+
 </body>
 
 </html>
